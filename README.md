@@ -22,17 +22,17 @@ BizCardX is a Streamlit application designed to extract information from busines
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/BizCardX.git
+   git clone https://github.com/your-username/BizCardX.git
 
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 3. Run the Streamlit application:
 
-streamlit run app.py
+   streamlit run app.py
 
 
 4. Access the application in your web browser at http://localhost:8501.
