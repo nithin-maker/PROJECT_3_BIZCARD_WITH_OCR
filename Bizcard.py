@@ -101,7 +101,7 @@ reader = easyocr.Reader(['en'], gpu=False)
 
 
 
-
+st.set_page_config(layout="wide")
 
 with st.sidebar:
     selected = option_menu("Menu", ["Home", "Extract and Upload", "Modify or Delete"],
